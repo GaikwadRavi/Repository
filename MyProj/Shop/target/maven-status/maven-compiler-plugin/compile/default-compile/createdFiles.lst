@@ -1,0 +1,16 @@
+com\backend\mode\UserDetails.class
+com\backend\mode\Category.class
+com\backend\dao\SupplierDAO.class
+com\backend\dao\DataDaoImpl.class
+com\backend\dao\DataDao.class
+com\backend\donfig\ApplicationContextConfig.class
+com\backend\dao\ProductDAO.class
+com\backend\mode\Product.class
+com\backend\dao\SupplierDAOImpl.class
+com\backend\mode\User.class
+com\backend\dao\CategoryDAO.class
+com\backend\mode\Supplier.class
+com\backend\dao\UserDetailsDAO.class
+com\backend\dao\CategoryDAOImpl.class
+com\backend\dao\ProductDAOImpl.class
+com\backend\dao\UseDetailsDAOImpl.class
